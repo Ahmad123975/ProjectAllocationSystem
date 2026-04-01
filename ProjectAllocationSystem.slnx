@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="Application_Services/Application_Services.csproj" />
+  </Folder>
+  <Folder Name="/Core/">
+    <Project Path="Domain_Services/Domain_Services.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure_Service/Infrastructure_Service.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="APIGateway_Service/APIGateway_Service.csproj" />
+  </Folder>
+</Solution>
