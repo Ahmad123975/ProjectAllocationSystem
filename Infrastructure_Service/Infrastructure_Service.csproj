@@ -6,4 +6,15 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="DI\" />
+    <Folder Include="Presistance\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application_Services\Application_Services.csproj" />
+    <ProjectReference Include="..\Domain_Services\Domain_Services.csproj" />
+  </ItemGroup>
+
 </Project>

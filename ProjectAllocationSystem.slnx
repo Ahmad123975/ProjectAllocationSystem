@@ -11,4 +11,7 @@
   <Folder Name="/Presentation/">
     <Project Path="APIGateway_Services/APIGateway_Services.csproj" Id="00625151-49fe-4613-bb33-766dece81939" />
   </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Packages.props" />
+  </Folder>
 </Solution>
