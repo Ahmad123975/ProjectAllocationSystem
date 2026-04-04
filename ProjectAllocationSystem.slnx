@@ -9,9 +9,8 @@
     <Project Path="Infrastructure_Service/Infrastructure_Service.csproj" />
   </Folder>
   <Folder Name="/Presentation/">
+    <File Path="Directory.Packages.props" />
     <Project Path="APIGateway_Services/APIGateway_Services.csproj" Id="00625151-49fe-4613-bb33-766dece81939" />
   </Folder>
-  <Folder Name="/Solution Items/">
-    <File Path="Directory.Packages.props" />
-  </Folder>
+  <Folder Name="/Solution Items/" />
 </Solution>

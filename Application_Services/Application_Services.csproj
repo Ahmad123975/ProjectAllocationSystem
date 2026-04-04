@@ -8,9 +8,14 @@
 
   <ItemGroup>
     <Folder Include="Common\" />
-    <Folder Include="DIs\" />
     <Folder Include="DTOs\" />
-    <Folder Include="Services\" />
+    <Folder Include="Services\Interface\" />
+    <Folder Include="Services\Implementation\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="10.0.5" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.5" />
   </ItemGroup>
 
   <ItemGroup>
