@@ -9,7 +9,7 @@
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="DI\" />
-    <Folder Include="Presistance\" />
+    <Folder Include="Presistance\RepositoryImplentation\" />
   </ItemGroup>
 
   <ItemGroup>
